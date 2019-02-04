@@ -1,12 +1,14 @@
-{
-"recepients": [ {
-  "id":"1",
-  "name": "tom",
-  "email": "tom@test.com"
-},
-{
-  "id":"2",
-  "name": "joe",
-  "email": "joe@test.com"
+ {
+  "recipients": [ 
+    {
+      "id":"1",
+      "name": "tom",
+      "email": "tom@test.com"
+    },
+    {
+      "id":"2",
+      "name": "joe",
+      "email": "joe@test.com"
+    }
+  ]
 }
-]
