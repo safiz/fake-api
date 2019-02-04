@@ -1,5 +1,5 @@
 {
-recepients : [ {
+"recepients": [ {
   "id":"1"
   "name": "tom"
   "email": "tom@test.com"
